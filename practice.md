@@ -1,0 +1,24 @@
+# What I learned About Javascript
+
+Objects are Equilvents to the dictionary in Javascript. The difference between a "===" and "==" is "===" is much more strict, while "==" is less strict allowing integer and string comparisons.
+
+##  Javascript 
+```javascript 
+1234.0+231 
+```
+
+## Output
+
+```
+1465
+```
+
+## Features
+
+- Built authentication with `Supabase`
+- Added REST endpoints using `Express.js`
+- Improved load times with `Redis` caching
+
+## Example
+
+Use `npm run dev` to start the server.
