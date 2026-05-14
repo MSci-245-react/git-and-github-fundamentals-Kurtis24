@@ -15,10 +15,6 @@ Objects are Equilvents to the dictionary in Javascript. The difference between a
 
 ## Features
 
-- Built authentication with `Supabase`
-- Added REST endpoints using `Express.js`
-- Improved load times with `Redis` caching
-
-## Example
-
-Use `npm run dev` to start the server.
+- item1
+- Aitem2
+- Item 3
